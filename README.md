@@ -28,8 +28,6 @@ A free and open-source Frappe application for KSA Compliance (ZATCA Integration)
 
 ### How to Install
 
--   **Frappe Cloud:**\
-    One-click installing available if you are hosting on Frappe Cloud
 -   **Self Hosting:**
 
 ```
@@ -55,33 +53,3 @@ bench  --site [your.site.name] install-app ksa_compliance
 ```
 bench  --site [your.site.name] migrate
 ```
-
-### Support
-
-### Frappe Cloud:
-
--   If you are hosting on FC premium support is available
-
-### Self Hosting:
-
--   If you need premium support please email : Info@lavaloon.com
-
-### Community Support:
-
--   Available in GitHub discussions <https://github.com/lavaloon-eg/ksa_compliance/discussions>
-
-### New Features and Bug report:
-
--   Please Create Github Issue <https://github.com/lavaloon-eg/ksa_compliance/issues> after checking the existing issues
--   For paid features, you can email us : <info@lavaloon.com>
-
-### **Contributing**
-
-Will using this the same guidelines from ERPNext
-
-1.  [**Issue Guidelines**](https://github.com/frappe/erpnext/wiki/Issue-Guidelines "https://github.com/frappe/erpnext/wiki/issue-guidelines")
-2.  [**Pull Request Requirements**](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines "https://github.com/frappe/erpnext/wiki/contribution-guidelines")
-
-### License
-
-Copyright (c) 2024 LavaLoon, The KSA Compliance App code is licensed as AGPL
